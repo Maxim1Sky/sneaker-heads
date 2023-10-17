@@ -13,16 +13,24 @@ h1 {
   border-radius: 0.5em;
 }
 
-#jordans-1-desc {
+p {
   font-weight: bold;
-  font-size: 20px;
-  background-color: red;
+  font-size: 1.4em;
+  border-radius: 0.4em;
+}
+
+#jordans-1-desc {
+  border: solid gold;
+  color: rgb(243, 183, 106);
+  background-image: linear-gradient(black, rgb(251, 64, 64));
+  text-shadow: 2px 3px 3px black;
 }
 
 #jordans-2-desc {
-  font-weight: bold;
-  font-size: 20px;
-  background-color: blanchedalmond;
+  border: solid gold;
+  color: black;
+  background-image: linear-gradient(rgb(116, 201, 241), blanchedalmond);
+  text-shadow: 1px 2px 2px rgb(116, 201, 241);
 }
 
 #row1 {
@@ -35,6 +43,16 @@ h1 {
   float: right;
   width: 45%; /* Adjust width as needed */
   margin: 10px;
+}
+
+#jordans-1 {
+  height: 400px;
+  width: 600px;
+}
+
+#jordans-2 {
+  height: 400px;
+  width: 600px;
 }
 
 /* Write Your CSS Below 
