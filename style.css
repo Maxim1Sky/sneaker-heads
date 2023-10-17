@@ -4,9 +4,13 @@ body {
 }
 
 h1 {
-  color: black;
+  font-size: 40px;
+  color: rgb(219, 255, 57);
+  text-shadow: 2px 3px 3px black;
+
   text-align: center;
-  background-color: white;
+  background-image: linear-gradient(rgb(116, 201, 241), rgb(251, 64, 64));
+  border-radius: 0.5em;
 }
 
 #jordans-1-desc {
