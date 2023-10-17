@@ -3,6 +3,11 @@ body {
   background-size: cover; /* You can adjust this to fit your needs */
 }
 
+
+h1{
+  color: black;
+}
+
 .container {
   width: 600px; /* Set the width of the container as needed */
   margin: 0 auto;
@@ -19,6 +24,7 @@ body {
   width: 45%; /* Adjust width as needed */
   margin: 10px;
 }
+
 
 /* Write Your CSS Below 
 Colors: 
