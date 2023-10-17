@@ -3,11 +3,6 @@ body {
   background-size: cover; /* You can adjust this to fit your needs */
 }
 
-.container {
-  width: 600px; /* Set the width of the container as needed */
-  margin: 0 auto;
-}
-
 #row1 {
   float: left;
   width: 45%; /* Adjust width as needed */
