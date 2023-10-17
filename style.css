@@ -3,6 +3,9 @@ body {
   background-size: cover; /* You can adjust this to fit your needs */
 }
 
+h1{
+  color: black;
+}
 /* Write Your CSS Below 
 Colors: 
 - rgb(243, 183, 106)
