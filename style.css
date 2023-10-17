@@ -6,11 +6,19 @@ body {
 h1 {
   color: black;
   text-align: center;
+  background-color: white;
 }
 
-.container {
-  width: 600px; /* Set the width of the container as needed */
-  margin: 0 auto;
+#jordans-1-desc {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: red;
+}
+
+#jordans-2-desc {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: blanchedalmond;
 }
 
 #row1 {
